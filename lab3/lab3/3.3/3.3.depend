@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477246626 source:c:\users\ooohh\desktop\lab3\3.3\cartejoc.cpp
+	"carteJoc.h"
+
+1287647780 c:\users\ooohh\desktop\lab3\3.3\cartejoc.h
+	<string>
+	<iostream>
+	<time.h>
+

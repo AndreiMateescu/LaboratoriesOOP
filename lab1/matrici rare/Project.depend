@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1473023208 source:c:\users\ooohh\desktop\project\functions.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1473022996 c:\users\ooohh\desktop\project\functions.h
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1473023208 source:c:\users\ooohh\desktop\project\main.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1473034897 source:c:\users\diamo\desktop\abc\abc\project\main.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1472987377 c:\users\diamo\desktop\abc\abc\project\functions.h
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1473036665 source:c:\users\diamo\desktop\abc\abc\project\functions.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1473037038 source:c:\users\diamo\desktop\info\librarie laborator + proiect tehnici\[pt]mateescu andrei 10106a\project\project\functions.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1472987377 c:\users\diamo\desktop\info\librarie laborator + proiect tehnici\[pt]mateescu andrei 10106a\project\project\functions.h
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1473034897 source:c:\users\diamo\desktop\info\librarie laborator + proiect tehnici\[pt]mateescu andrei 10106a\project\project\main.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1476131191 source:c:\users\diamo\desktop\lab oop\lab1\matrici rare\functions.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1476105452 c:\users\diamo\desktop\lab oop\lab1\matrici rare\functions.h
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
+1476131495 source:c:\users\diamo\desktop\lab oop\lab1\matrici rare\main.c
+	"functions.h"
+	<stdio.h>
+	<malloc.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+

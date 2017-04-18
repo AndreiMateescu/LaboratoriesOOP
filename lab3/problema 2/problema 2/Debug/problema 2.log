@@ -1,0 +1,17 @@
+﻿Build started 07.11.2016 22:40:55.
+     1>Project "C:\Users\diamo\Desktop\lab OOP\lab3\problema 2\problema 2\problema 2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "problema 2.cpp"
+         problema 2.cpp
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(166): error C2057: expected constant expression
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(166): error C2466: cannot allocate an array of constant size 0
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(166): error C2133: 'y' : unknown size
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(188): error C2057: expected constant expression
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(188): error C2466: cannot allocate an array of constant size 0
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(206): error C2057: expected constant expression
+     1>c:\users\diamo\desktop\lab oop\lab3\problema 2\problema 2\problema 2.cpp(206): error C2466: cannot allocate an array of constant size 0
+     1>Done Building Project "C:\Users\diamo\Desktop\lab OOP\lab3\problema 2\problema 2\problema 2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36

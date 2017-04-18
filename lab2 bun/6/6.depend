@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1476713708 source:c:\users\diamo\desktop\lab oop\lab2 bun\6\functions.cpp
+	"functions.h"
+
+1476713812 c:\users\diamo\desktop\lab oop\lab2 bun\6\functions.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string>
+	<string.h>
+	<conio.h>
+
+1476713675 source:c:\users\diamo\desktop\lab oop\lab2 bun\6\main.cpp
+	"functions.h"
+

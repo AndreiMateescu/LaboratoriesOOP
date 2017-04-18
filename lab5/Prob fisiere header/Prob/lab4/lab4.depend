@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1478608019 source:c:\users\diamo\desktop\prob\prob\lab4\main.cpp
+	"CCarte.h"
+	"ISBNNN.h"
+
+1478608248 c:\users\diamo\desktop\prob\prob\lab4\ccarte.h
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdbool.h>
+
+1478608248 source:c:\users\diamo\desktop\prob\prob\lab4\ccarte.cpp
+	"CCarte.h"
+	"ISBNNN.h"
+
+1478608020 source:c:\users\diamo\desktop\prob\prob\lab4\isbnnn.cpp
+	"CCarte.h"
+	"ISBNNN.h"
+
+1478608309 c:\users\diamo\desktop\prob\prob\lab4\isbnnn.h
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdbool.h>
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1476136803 source:c:\users\ooohh\desktop\liste\main.cpp
+	"list.h"
+
+1476136858 c:\users\ooohh\desktop\liste\list.h
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1476136884 source:c:\users\ooohh\desktop\liste\list.cpp
+	"list.h"
+
+1476136884 source:c:\users\diamo\desktop\liste\liste\list.cpp
+	"list.h"
+
+1476136858 c:\users\diamo\desktop\liste\liste\list.h
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1476136803 source:c:\users\diamo\desktop\liste\liste\main.cpp
+	"list.h"
+
+1476188475 source:c:\users\diamo\desktop\lab oop\lab1\liste\liste\list.cpp
+	"list.h"
+
+1476136858 c:\users\diamo\desktop\lab oop\lab1\liste\liste\list.h
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1476187515 source:c:\users\diamo\desktop\lab oop\lab1\liste\liste\main.cpp
+	"list.h"
+

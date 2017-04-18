@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1288294028 source:c:\users\ooohh\desktop\lab3\3.4\loto.cpp
+	"Loto.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1288294508 c:\users\ooohh\desktop\lab3\3.4\loto.h
+	<iostream>
+	"Bila.h"
+
+1288294370 c:\users\ooohh\desktop\lab3\3.4\bila.h
+	<iostream>
+

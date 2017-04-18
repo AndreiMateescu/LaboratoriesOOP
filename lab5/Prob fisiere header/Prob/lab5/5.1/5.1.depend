@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478532086 source:c:\users\diamo\desktop\prob\prob\lab5\5.1\main.cpp
+	"CPunct.h"
+
+1478532097 c:\users\diamo\desktop\prob\prob\lab5\5.1\cpunct.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

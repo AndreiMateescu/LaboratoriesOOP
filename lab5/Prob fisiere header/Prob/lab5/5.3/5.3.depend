@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1478611126 source:c:\users\diamo\desktop\prob\prob\lab5\5.3\main.cpp
+	"CUser.h"
+	"CAdmin.h"
+
+1478612000 c:\users\diamo\desktop\prob\prob\lab5\5.3\cuser.h
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+
+1478611862 source:c:\users\diamo\desktop\prob\prob\lab5\5.3\cadmin.cpp
+	"CAdmin.h"
+	"CUser.h"
+
+1478611227 c:\users\diamo\desktop\prob\prob\lab5\5.3\cadmin.h
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+	"CUser.h"
+
+1478610454 source:c:\users\diamo\desktop\prob\prob\lab5\5.3\cuser.cpp
+	"CUser.h"
+

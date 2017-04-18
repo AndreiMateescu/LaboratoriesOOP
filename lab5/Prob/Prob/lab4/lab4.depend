@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478531931 source:c:\users\diamo\desktop\prob\prob\lab4\main.cpp
+	"CCarte.h"
+
+1478531888 c:\users\diamo\desktop\prob\prob\lab4\ccarte.h
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<stdbool.h>
+
+1478531962 source:c:\users\diamo\desktop\prob\prob\lab4\ccarte.cpp
+
